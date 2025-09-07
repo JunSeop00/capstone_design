@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# 🧪 DTI 시각화 웹 프론트엔드
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 약물-단백질 상호작용 (Drug-Target Interaction, DTI) 예측 모델의 결과를 시각화하고 탐색할 수 있는 웹 기반 플랫폼의 프론트엔드 클라이언트입니다.  
+다양한 GNN 기반 모델의 결과를 비교하고, 예측 상호작용을 시각적으로 탐색할 수 있습니다.
+---
+## 📦 Stacks
 
-## Available Scripts
+- **React 19**
+- **TailwindCSS 4**
+- **Plotly.js** – 시각화 차트
+- **Framer Motion** – UI 애니메이션
+- **Firebase Hosting** – HTTPS 기반 배포
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🎯 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+| 기능 | 설명 |
+|------|------|
+| ✅ **모델 결과 비교** | 다양한 DTI 모델(HAN, 개선 모델 등)의 예측 결과를 선택·탐색 가능 |
+| 🔍 **상호작용 검색** | 약물 또는 단백질 이름을 입력해 Top-N 상호작용 결과를 탐색 |
+| 📈 **임베딩 시각화** | 2D 차원 축소를 통한 약물/단백질 분포 시각화 |
+| 📊 **평가 지표 제공** | AUROC, AUPR, Accuracy 등을 카드 및 그래프로 요약 제공 |
+| 🌙 **다크모드 지원** | 사용자의 환경을 고려한 라이트/다크 테마 전환 |
+| 🔄 **자동완성 기능** | 약물/단백질 입력 시 자동 제안 기능 제공 |
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Run
+1. **Install Dependencies**
+   ```bash
+   cd client
+   npm install
+   ```
+2. **Set Env Variables**
+   - .env 파일 생성 후 아래와 같이 작성
+   ```bash 
+   API_BASE_URL=http://localhost:8000/api
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Run Dev Server**
+   ```bash 
+   npm start
+   ```
+---
+## Deployment (Firebase Hosting)
+https://capstone-14.web.app/
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="../client/public/capstone.png" alt="Screenshot" width="500"/>

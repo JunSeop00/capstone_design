@@ -150,7 +150,6 @@ export default function TabViewDTIApp() {
         <div className="min-h-screen bg-gray-100 dark:bg-gray-900 transition-colors p-6">
             {loading && <LoadingOverlay/>}
 
-            {/* Header */}
             <header className="max-w-[1600px] mx-auto mb-6 flex justify-between items-center">
                 <div
                     className="pl-2 cursor-pointer"
@@ -164,7 +163,6 @@ export default function TabViewDTIApp() {
                     </p>
                 </div>
 
-                {/* Desktop Menu */}
                 <div className="hidden sm:flex items-center space-x-6">
                     <VersionSelector/>
                     <GoGithub/>
@@ -172,7 +170,6 @@ export default function TabViewDTIApp() {
                     <Instruction/>
                 </div>
 
-                {/* Mobile Hamburger */}
                 <button
                     className="sm:hidden p-2 focus:outline-none dark:text-white"
                     onClick={() => setMobileMenuOpen(o => !o)}
@@ -182,7 +179,6 @@ export default function TabViewDTIApp() {
                 </button>
             </header>
 
-            {/* Mobile Off-canvas Drawer */}
             <AnimatePresence>
                 {mobileMenuOpen && (
                     <div className="fixed inset-0 z-50 flex">
@@ -242,7 +238,6 @@ export default function TabViewDTIApp() {
                 )}
             </AnimatePresence>
 
-            {/* Instruction Modal */}
             <AnimatePresence>
                 {showInstructionModal && (
                     <motion.div className="fixed inset-0 z-50 bg-black/50 flex items-center justify-center p-4"
@@ -288,7 +283,7 @@ export default function TabViewDTIApp() {
                     </motion.div>
                 )}
             </AnimatePresence>
-            {/* Version Summary & Content */}
+
             <VersionSummary
                 version={version}
                 versionDescriptions={log.description}

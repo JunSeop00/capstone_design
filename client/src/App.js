@@ -4,7 +4,7 @@ import ScatterPlot from './components/ScatterPlot';
 import DTITable from './components/DTITable';
 import DarkModeToggle from './components/DarkModeToggle';
 import {AnimatePresence, motion} from "framer-motion";
-import {Fullscreen, X, ArrowUpFromLine, MessageCircleQuestion} from 'lucide-react';
+import {Fullscreen, ArrowUpFromLine} from 'lucide-react';
 import {useModelVersion} from "./contexts/ModelVersionContext";
 import VersionSelector from "./components/VersionSelector";
 import PerformanceChart from "./components/PerformanceChart";
@@ -12,7 +12,6 @@ import Instruction from "./components/Instruction";
 import CardModal from "./components/CardModal";
 import GoGithub from "./components/GoGithub";
 import VersionSummary from "./components/VersionSummary";
-import axios from "axios"; // 새로 분리한 모달 컴포넌트
 
 export default function App() {
     const versionDescriptions = {
@@ -61,7 +60,6 @@ export default function App() {
     const [activeIndex, setActiveIndex] = useState(-1); // -1이면 전체화면X
     const [direction, setDirection] = useState(0); // 1: 다음, -1: 이전, 0: 고정
 
-    // scroll 관련
     const [showScrollTop, setShowScrollTop] = useState(false);
     const [scrollProgress, setScrollProgress] = useState(0);
 
@@ -100,8 +98,6 @@ export default function App() {
 
     }, [version]);
 
-
-// 사용 예
 
     return (
         <div className={activeIndex !== -1 ? 'overflow-hidden' : ''}>
@@ -160,7 +156,7 @@ export default function App() {
                         ))}
                     </div>)}
             </div>
-            {/* 풀스크린 카드 모달 */}
+
             {activeIndex !== -1 && (
                 <div className="fixed inset-0 z-50 bg-black/50 flex items-center justify-center p-6">
                     <AnimatePresence initial={false} custom={direction} mode="wait">
@@ -178,7 +174,6 @@ export default function App() {
             )}
 
 
-            {/* Scroll to top button */}
             <motion.button
                 initial={{opacity: 1, scale: 0.9}}
                 animate={{opacity: showScrollTop ? 1 : 0, scale: showScrollTop ? 1 : 0.9}}
