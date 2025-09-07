@@ -1,0 +1,1802 @@
+[
+  {
+    "type": "drug",
+    "drug_index": 0,
+    "name": "Aspirin",
+    "embedding": [
+      3.4886,
+      4.0801
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 1,
+    "name": "Ibuprofen",
+    "embedding": [
+      1.8619,
+      1.3646
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 2,
+    "name": "Metformin",
+    "embedding": [
+      5.4487,
+      6.1802
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 3,
+    "name": "Simvastatin",
+    "embedding": [
+      8.0208,
+      1.5446
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 4,
+    "name": "Amoxicillin",
+    "embedding": [
+      5.0192,
+      3.2635
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 5,
+    "name": "Lisinopril",
+    "embedding": [
+      7.8509,
+      3.1323
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 6,
+    "name": "Atorvastatin",
+    "embedding": [
+      8.2881,
+      1.1024
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 7,
+    "name": "Omeprazole",
+    "embedding": [
+      0.4612,
+      7.0665
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 8,
+    "name": "Azithromycin",
+    "embedding": [
+      6.2194,
+      4.323
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 9,
+    "name": "Losartan",
+    "embedding": [
+      0.9746,
+      6.4245
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 10,
+    "name": "Hydrochlorothiazide",
+    "embedding": [
+      8.2609,
+      3.2904
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 11,
+    "name": "Levothyroxine",
+    "embedding": [
+      0.0183,
+      9.7008
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 12,
+    "name": "Gabapentin",
+    "embedding": [
+      1.486,
+      9.9101
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 13,
+    "name": "Sertraline",
+    "embedding": [
+      6.7633,
+      2.952
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 14,
+    "name": "Alprazolam",
+    "embedding": [
+      0.9028,
+      8.2178
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 15,
+    "name": "Metoprolol",
+    "embedding": [
+      3.8434,
+      5.5448
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 16,
+    "name": "Amlodipine",
+    "embedding": [
+      7.6884,
+      7.0591
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 17,
+    "name": "Furosemide",
+    "embedding": [
+      3.0456,
+      5.3802
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 18,
+    "name": "Prednisone",
+    "embedding": [
+      0.2667,
+      9.4979
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 19,
+    "name": "Tramadol",
+    "embedding": [
+      1.3268,
+      0.1116
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 20,
+    "name": "Ciprofloxacin",
+    "embedding": [
+      9.134,
+      5.2755
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 21,
+    "name": "Clopidogrel",
+    "embedding": [
+      5.8305,
+      4.506
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 22,
+    "name": "Zolpidem",
+    "embedding": [
+      1.213,
+      8.1525
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 23,
+    "name": "Fluoxetine",
+    "embedding": [
+      2.0109,
+      5.7743
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 24,
+    "name": "Tamsulosin",
+    "embedding": [
+      3.9222,
+      0.3384
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 25,
+    "name": "Escitalopram",
+    "embedding": [
+      6.6061,
+      2.266
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 26,
+    "name": "Warfarin",
+    "embedding": [
+      2.0426,
+      6.2788
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 27,
+    "name": "Duloxetine",
+    "embedding": [
+      2.6643,
+      8.1123
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 28,
+    "name": "Lorazepam",
+    "embedding": [
+      5.9056,
+      9.4812
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 29,
+    "name": "Cephalexin",
+    "embedding": [
+      0.2729,
+      1.8351
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 30,
+    "name": "Bupropion",
+    "embedding": [
+      5.0592,
+      0.7091
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 31,
+    "name": "Meloxicam",
+    "embedding": [
+      2.8316,
+      0.1571
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 32,
+    "name": "Allopurinol",
+    "embedding": [
+      8.3951,
+      8.1838
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 33,
+    "name": "Citalopram",
+    "embedding": [
+      5.9106,
+      2.3158
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 34,
+    "name": "Buspirone",
+    "embedding": [
+      6.103,
+      0.2037
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 35,
+    "name": "Quetiapine",
+    "embedding": [
+      9.3167,
+      2.2127
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 36,
+    "name": "Spironolactone",
+    "embedding": [
+      0.095,
+      4.2733
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 37,
+    "name": "Propranolol",
+    "embedding": [
+      9.518,
+      2.5848
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 38,
+    "name": "Loratadine",
+    "embedding": [
+      9.5659,
+      6.8237
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 39,
+    "name": "Pantoprazole",
+    "embedding": [
+      2.9096,
+      2.055
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 40,
+    "name": "Doxycycline",
+    "embedding": [
+      9.5677,
+      9.9521
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 41,
+    "name": "Carvedilol",
+    "embedding": [
+      1.1823,
+      8.2588
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 42,
+    "name": "Venlafaxine",
+    "embedding": [
+      6.9304,
+      5.0736
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 43,
+    "name": "Cyclobenzaprine",
+    "embedding": [
+      3.1614,
+      6.3048
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 44,
+    "name": "Insulin",
+    "embedding": [
+      2.3897,
+      8.7697
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 45,
+    "name": "Trazodone",
+    "embedding": [
+      3.4531,
+      3.5957
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 46,
+    "name": "Hydralazine",
+    "embedding": [
+      5.0754,
+      2.7601
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 47,
+    "name": "Rosuvastatin",
+    "embedding": [
+      9.1163,
+      4.4906
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 48,
+    "name": "Terazosin",
+    "embedding": [
+      6.0006,
+      3.2759
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 49,
+    "name": "Ranitidine",
+    "embedding": [
+      4.2879,
+      9.2812
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 50,
+    "name": "Clindamycin",
+    "embedding": [
+      1.1692,
+      2.2823
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 51,
+    "name": "Amiodarone",
+    "embedding": [
+      7.9408,
+      8.8208
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 52,
+    "name": "Lansoprazole",
+    "embedding": [
+      6.1321,
+      4.9672
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 53,
+    "name": "Ketoconazole",
+    "embedding": [
+      8.4532,
+      6.7638
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 54,
+    "name": "Naproxen",
+    "embedding": [
+      5.1972,
+      0.8163
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 55,
+    "name": "Hydroxyzine",
+    "embedding": [
+      5.7843,
+      5.585
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 56,
+    "name": "Acetaminophen",
+    "embedding": [
+      2.1649,
+      6.1732
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 57,
+    "name": "Enalapril",
+    "embedding": [
+      7.644,
+      2.4659
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 58,
+    "name": "Methotrexate",
+    "embedding": [
+      2.2055,
+      4.08
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 59,
+    "name": "Valacyclovir",
+    "embedding": [
+      4.8719,
+      9.3461
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 60,
+    "name": "Nitrofurantoin",
+    "embedding": [
+      2.1259,
+      8.0443
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 61,
+    "name": "Mirtazapine",
+    "embedding": [
+      2.7941,
+      9.0607
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 62,
+    "name": "Levofloxacin",
+    "embedding": [
+      8.2586,
+      9.5207
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 63,
+    "name": "Fenofibrate",
+    "embedding": [
+      0.7008,
+      0.4417
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 64,
+    "name": "Glipizide",
+    "embedding": [
+      4.5197,
+      2.6478
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 65,
+    "name": "Topiramate",
+    "embedding": [
+      2.9974,
+      4.3887
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 66,
+    "name": "Digoxin",
+    "embedding": [
+      6.2422,
+      3.5483
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 67,
+    "name": "Temazepam",
+    "embedding": [
+      0.9936,
+      5.0082
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 68,
+    "name": "Ropinirole",
+    "embedding": [
+      7.3317,
+      9.5218
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 69,
+    "name": "Minocycline",
+    "embedding": [
+      3.3474,
+      5.1025
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 70,
+    "name": "Dicyclomine",
+    "embedding": [
+      6.427,
+      8.9637
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 71,
+    "name": "Benazepril",
+    "embedding": [
+      7.2734,
+      6.6643
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 72,
+    "name": "Labetalol",
+    "embedding": [
+      2.4252,
+      1.648
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 73,
+    "name": "Verapamil",
+    "embedding": [
+      1.6391,
+      9.4548
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 74,
+    "name": "Nifedipine",
+    "embedding": [
+      4.7636,
+      5.5991
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 75,
+    "name": "Olanzapine",
+    "embedding": [
+      7.4251,
+      6.6076
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 76,
+    "name": "Haloperidol",
+    "embedding": [
+      4.498,
+      0.4859
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 77,
+    "name": "Isosorbide",
+    "embedding": [
+      9.3138,
+      1.0633
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 78,
+    "name": "Methocarbamol",
+    "embedding": [
+      9.0646,
+      7.4821
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 79,
+    "name": "Divalproex",
+    "embedding": [
+      8.9036,
+      5.7921
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 80,
+    "name": "Tizanidine",
+    "embedding": [
+      9.3894,
+      6.3559
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 81,
+    "name": "Liraglutide",
+    "embedding": [
+      6.8893,
+      2.8758
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 82,
+    "name": "Rivaroxaban",
+    "embedding": [
+      0.5352,
+      6.8983
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 83,
+    "name": "Apixaban",
+    "embedding": [
+      2.4049,
+      4.0351
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 84,
+    "name": "Canagliflozin",
+    "embedding": [
+      5.0385,
+      6.0364
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 85,
+    "name": "Empagliflozin",
+    "embedding": [
+      2.8259,
+      3.8485
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 86,
+    "name": "Dapagliflozin",
+    "embedding": [
+      3.0158,
+      8.292
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 87,
+    "name": "Sitagliptin",
+    "embedding": [
+      4.5228,
+      9.879
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 88,
+    "name": "Vildagliptin",
+    "embedding": [
+      5.0149,
+      6.6716
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 89,
+    "name": "Linagliptin",
+    "embedding": [
+      7.1585,
+      0.2725
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 90,
+    "name": "Semaglutide",
+    "embedding": [
+      3.5104,
+      8.6352
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 91,
+    "name": "Pioglitazone",
+    "embedding": [
+      8.7417,
+      9.4843
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 92,
+    "name": "Glimepiride",
+    "embedding": [
+      6.8214,
+      8.3404
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 93,
+    "name": "Insulin Glargine",
+    "embedding": [
+      3.547,
+      2.3391
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 94,
+    "name": "Insulin Aspart",
+    "embedding": [
+      3.8584,
+      2.8586
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 95,
+    "name": "Drug_95",
+    "embedding": [
+      6.9796,
+      5.5092
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 96,
+    "name": "Drug_96",
+    "embedding": [
+      9.8012,
+      0.7297
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 97,
+    "name": "Drug_97",
+    "embedding": [
+      8.3427,
+      4.131
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 98,
+    "name": "Drug_98",
+    "embedding": [
+      0.8731,
+      1.731
+    ]
+  },
+  {
+    "type": "drug",
+    "drug_index": 99,
+    "name": "Drug_99",
+    "embedding": [
+      0.8909,
+      9.8832
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 0,
+    "name": "P34725",
+    "embedding": [
+      8.4188,
+      3.2229
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 1,
+    "name": "P64898",
+    "embedding": [
+      3.6331,
+      8.0896
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 2,
+    "name": "P34500",
+    "embedding": [
+      4.7493,
+      8.9345
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 3,
+    "name": "P94394",
+    "embedding": [
+      7.4687,
+      0.9702
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 4,
+    "name": "P10398",
+    "embedding": [
+      5.1189,
+      2.5833
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 5,
+    "name": "P72505",
+    "embedding": [
+      0.5726,
+      8.2533
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 6,
+    "name": "P99653",
+    "embedding": [
+      5.0466,
+      5.5103
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 7,
+    "name": "P96815",
+    "embedding": [
+      2.7839,
+      8.3169
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 8,
+    "name": "P77392",
+    "embedding": [
+      3.5847,
+      5.5968
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 9,
+    "name": "P41282",
+    "embedding": [
+      9.8098,
+      0.6612
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 10,
+    "name": "P74765",
+    "embedding": [
+      3.9483,
+      8.2115
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 11,
+    "name": "P34037",
+    "embedding": [
+      8.5272,
+      0.5299
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 12,
+    "name": "P12897",
+    "embedding": [
+      6.614,
+      4.7519
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 13,
+    "name": "P36146",
+    "embedding": [
+      8.9436,
+      9.3575
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 14,
+    "name": "P66910",
+    "embedding": [
+      4.704,
+      5.977
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 15,
+    "name": "P46240",
+    "embedding": [
+      3.0317,
+      2.2028
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 16,
+    "name": "P47816",
+    "embedding": [
+      1.6818,
+      3.1866
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 17,
+    "name": "P14997",
+    "embedding": [
+      2.2059,
+      2.4569
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 18,
+    "name": "P59568",
+    "embedding": [
+      7.0635,
+      3.9871
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 19,
+    "name": "P46224",
+    "embedding": [
+      3.8319,
+      6.6816
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 20,
+    "name": "P71908",
+    "embedding": [
+      8.0941,
+      3.2094
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 21,
+    "name": "P23510",
+    "embedding": [
+      6.1991,
+      1.5433
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 22,
+    "name": "P80055",
+    "embedding": [
+      9.2049,
+      4.0144
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 23,
+    "name": "P55971",
+    "embedding": [
+      7.2887,
+      3.24
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 24,
+    "name": "P15051",
+    "embedding": [
+      1.0524,
+      5.4133
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 25,
+    "name": "P55841",
+    "embedding": [
+      6.2649,
+      9.8481
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 26,
+    "name": "P22215",
+    "embedding": [
+      6.1139,
+      7.6576
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 27,
+    "name": "P42298",
+    "embedding": [
+      8.0691,
+      2.3044
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 28,
+    "name": "P50106",
+    "embedding": [
+      2.6446,
+      9.7389
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 29,
+    "name": "P72319",
+    "embedding": [
+      0.9311,
+      2.2049
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 30,
+    "name": "P21650",
+    "embedding": [
+      5.8524,
+      2.0294
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 31,
+    "name": "P73273",
+    "embedding": [
+      7.3142,
+      7.432
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 32,
+    "name": "P77698",
+    "embedding": [
+      7.1788,
+      3.7977
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 33,
+    "name": "P83566",
+    "embedding": [
+      8.3765,
+      7.3765
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 34,
+    "name": "P78364",
+    "embedding": [
+      5.6429,
+      3.3879
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 35,
+    "name": "P15731",
+    "embedding": [
+      6.7356,
+      7.0338
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 36,
+    "name": "P51165",
+    "embedding": [
+      3.7183,
+      8.2885
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 37,
+    "name": "P24379",
+    "embedding": [
+      2.2937,
+      8.5584
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 38,
+    "name": "P94438",
+    "embedding": [
+      3.27,
+      6.9615
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 39,
+    "name": "P13924",
+    "embedding": [
+      3.3538,
+      3.5926
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 40,
+    "name": "P87490",
+    "embedding": [
+      3.8375,
+      3.921
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 41,
+    "name": "P43897",
+    "embedding": [
+      9.7416,
+      1.2162
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 42,
+    "name": "P77658",
+    "embedding": [
+      5.1606,
+      9.8632
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 43,
+    "name": "P27619",
+    "embedding": [
+      2.0778,
+      0.8446
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 44,
+    "name": "P59133",
+    "embedding": [
+      1.2084,
+      9.7235
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 45,
+    "name": "P21288",
+    "embedding": [
+      7.6024,
+      7.9359
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 46,
+    "name": "P54332",
+    "embedding": [
+      4.9308,
+      2.2872
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 47,
+    "name": "P95699",
+    "embedding": [
+      2.0625,
+      4.4266
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 48,
+    "name": "P42151",
+    "embedding": [
+      7.0352,
+      3.4065
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 49,
+    "name": "P12118",
+    "embedding": [
+      3.5682,
+      7.7372
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 50,
+    "name": "P24293",
+    "embedding": [
+      2.2717,
+      7.6608
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 51,
+    "name": "P56357",
+    "embedding": [
+      9.9827,
+      3.8192
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 52,
+    "name": "P11832",
+    "embedding": [
+      0.3213,
+      5.1753
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 53,
+    "name": "P43947",
+    "embedding": [
+      9.9346,
+      9.0653
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 54,
+    "name": "P75543",
+    "embedding": [
+      5.6926,
+      8.0376
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 55,
+    "name": "P24604",
+    "embedding": [
+      7.3578,
+      3.2357
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 56,
+    "name": "P21807",
+    "embedding": [
+      0.3482,
+      6.0631
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 57,
+    "name": "P90443",
+    "embedding": [
+      8.1467,
+      5.8951
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 58,
+    "name": "P47305",
+    "embedding": [
+      1.7325,
+      2.5623
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 59,
+    "name": "P56812",
+    "embedding": [
+      2.8183,
+      5.0579
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 60,
+    "name": "P97535",
+    "embedding": [
+      5.1374,
+      0.9079
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 61,
+    "name": "P81191",
+    "embedding": [
+      1.9638,
+      2.2297
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 62,
+    "name": "P36807",
+    "embedding": [
+      2.4451,
+      6.0014
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 63,
+    "name": "P57982",
+    "embedding": [
+      2.8458,
+      1.7814
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 64,
+    "name": "P39412",
+    "embedding": [
+      6.97,
+      2.4876
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 65,
+    "name": "P57845",
+    "embedding": [
+      1.7667,
+      1.6747
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 66,
+    "name": "P33813",
+    "embedding": [
+      9.6052,
+      1.3588
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 67,
+    "name": "P36604",
+    "embedding": [
+      6.8676,
+      4.8751
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 68,
+    "name": "P15936",
+    "embedding": [
+      2.7371,
+      9.2106
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 69,
+    "name": "P32286",
+    "embedding": [
+      0.8718,
+      9.6052
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 70,
+    "name": "P84273",
+    "embedding": [
+      3.9853,
+      7.7827
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 71,
+    "name": "P24030",
+    "embedding": [
+      9.8293,
+      3.7659
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 72,
+    "name": "P20720",
+    "embedding": [
+      1.7907,
+      6.2016
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 73,
+    "name": "P58152",
+    "embedding": [
+      9.2026,
+      9.88
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 74,
+    "name": "P63860",
+    "embedding": [
+      6.8054,
+      0.9799
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 75,
+    "name": "P47084",
+    "embedding": [
+      9.483,
+      2.343
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 76,
+    "name": "P65659",
+    "embedding": [
+      5.9468,
+      8.7959
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 77,
+    "name": "P12732",
+    "embedding": [
+      5.2404,
+      0.1686
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 78,
+    "name": "P68143",
+    "embedding": [
+      3.1154,
+      2.1024
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 79,
+    "name": "P70135",
+    "embedding": [
+      0.0502,
+      5.8673
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 80,
+    "name": "P13895",
+    "embedding": [
+      4.6938,
+      2.655
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 81,
+    "name": "P53132",
+    "embedding": [
+      8.8403,
+      6.2072
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 82,
+    "name": "P74475",
+    "embedding": [
+      6.6707,
+      5.1795
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 83,
+    "name": "P18815",
+    "embedding": [
+      4.1847,
+      5.6866
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 84,
+    "name": "P81032",
+    "embedding": [
+      9.6827,
+      9.7217
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 85,
+    "name": "P40344",
+    "embedding": [
+      6.6412,
+      4.7308
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 86,
+    "name": "P30254",
+    "embedding": [
+      1.2515,
+      7.6085
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 87,
+    "name": "P78732",
+    "embedding": [
+      5.7452,
+      1.7897
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 88,
+    "name": "P28015",
+    "embedding": [
+      2.9771,
+      4.5787
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 89,
+    "name": "P23863",
+    "embedding": [
+      5.2142,
+      6.3962
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 90,
+    "name": "P10418",
+    "embedding": [
+      6.6979,
+      2.613
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 91,
+    "name": "P74268",
+    "embedding": [
+      8.1109,
+      3.4481
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 92,
+    "name": "P28056",
+    "embedding": [
+      5.118,
+      8.0863
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 93,
+    "name": "P61103",
+    "embedding": [
+      2.7408,
+      7.9909
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 94,
+    "name": "P92527",
+    "embedding": [
+      5.5162,
+      3.0216
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 95,
+    "name": "P11904",
+    "embedding": [
+      5.319,
+      6.6942
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 96,
+    "name": "P52280",
+    "embedding": [
+      4.2948,
+      6.6912
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 97,
+    "name": "P66721",
+    "embedding": [
+      3.399,
+      2.3824
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 98,
+    "name": "P36788",
+    "embedding": [
+      1.3805,
+      2.9982
+    ]
+  },
+  {
+    "type": "protein",
+    "protein_index": 99,
+    "name": "P53671",
+    "embedding": [
+      6.3191,
+      0.4921
+    ]
+  }
+]

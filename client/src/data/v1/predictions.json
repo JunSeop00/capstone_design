@@ -1,0 +1,702 @@
+[
+  {
+    "drug_index": 30,
+    "drug_name": "Metformin",
+    "protein_index": 50,
+    "protein_name": "Q9UBR4",
+    "score": 0.714
+  },
+  {
+    "drug_index": 45,
+    "drug_name": "Aspirin",
+    "protein_index": 44,
+    "protein_name": "PO2768",
+    "score": 0.887
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Aspirin",
+    "protein_index": 49,
+    "protein_name": "P00734",
+    "score": 0.738
+  },
+  {
+    "drug_index": 14,
+    "drug_name": "Paracetamol",
+    "protein_index": 6,
+    "protein_name": "P12345",
+    "score": 0.758
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Losartan",
+    "protein_index": 20,
+    "protein_name": "P00734",
+    "score": 0.731
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Ibuprofen",
+    "protein_index": 6,
+    "protein_name": "P12345",
+    "score": 0.96
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Paracetamol",
+    "protein_index": 11,
+    "protein_name": "O60506",
+    "score": 0.962
+  },
+  {
+    "drug_index": 37,
+    "drug_name": "Losartan",
+    "protein_index": 7,
+    "protein_name": "Q9UBR4",
+    "score": 0.934
+  },
+  {
+    "drug_index": 5,
+    "drug_name": "Atorvastatin",
+    "protein_index": 14,
+    "protein_name": "P12345",
+    "score": 0.849
+  },
+  {
+    "drug_index": 26,
+    "drug_name": "Ibuprofen",
+    "protein_index": 35,
+    "protein_name": "P00734",
+    "score": 0.71
+  },
+  {
+    "drug_index": 26,
+    "drug_name": "Ibuprofen",
+    "protein_index": 26,
+    "protein_name": "Q9UBR4",
+    "score": 0.947
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Aspirin",
+    "protein_index": 8,
+    "protein_name": "P00734",
+    "score": 0.974
+  },
+  {
+    "drug_index": 41,
+    "drug_name": "Simvastatin",
+    "protein_index": 15,
+    "protein_name": "P01308",
+    "score": 0.988
+  },
+  {
+    "drug_index": 38,
+    "drug_name": "Paracetamol",
+    "protein_index": 14,
+    "protein_name": "P12345",
+    "score": 0.78
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Paracetamol",
+    "protein_index": 25,
+    "protein_name": "Q8GU86",
+    "score": 0.746
+  },
+  {
+    "drug_index": 35,
+    "drug_name": "Aspirin",
+    "protein_index": 23,
+    "protein_name": "Q8GU86",
+    "score": 0.755
+  },
+  {
+    "drug_index": 12,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 32,
+    "protein_name": "Q9UBR4",
+    "score": 0.983
+  },
+  {
+    "drug_index": 31,
+    "drug_name": "Metformin",
+    "protein_index": 2,
+    "protein_name": "Q9GPI1",
+    "score": 0.708
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Aspirin",
+    "protein_index": 5,
+    "protein_name": "Q8GU86",
+    "score": 0.83
+  },
+  {
+    "drug_index": 43,
+    "drug_name": "Aspirin",
+    "protein_index": 20,
+    "protein_name": "P00734",
+    "score": 0.763
+  },
+  {
+    "drug_index": 18,
+    "drug_name": "Warfarin",
+    "protein_index": 23,
+    "protein_name": "Q8GU86",
+    "score": 0.953
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 38,
+    "protein_name": "Q9UBR4",
+    "score": 0.893
+  },
+  {
+    "drug_index": 42,
+    "drug_name": "Aspirin",
+    "protein_index": 21,
+    "protein_name": "O60506",
+    "score": 0.76
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Aspirin",
+    "protein_index": 47,
+    "protein_name": "P12345",
+    "score": 0.755
+  },
+  {
+    "drug_index": 50,
+    "drug_name": "Paracetamol",
+    "protein_index": 46,
+    "protein_name": "Q9Y243",
+    "score": 0.96
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Ibuprofen",
+    "protein_index": 29,
+    "protein_name": "Q8N158",
+    "score": 0.789
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Aspirin",
+    "protein_index": 31,
+    "protein_name": "O60506",
+    "score": 0.865
+  },
+  {
+    "drug_index": 50,
+    "drug_name": "Paracetamol",
+    "protein_index": 27,
+    "protein_name": "P12345",
+    "score": 0.775
+  },
+  {
+    "drug_index": 42,
+    "drug_name": "Aspirin",
+    "protein_index": 49,
+    "protein_name": "P00734",
+    "score": 0.785
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 25,
+    "protein_name": "Q8GU86",
+    "score": 0.769
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 27,
+    "protein_name": "P12345",
+    "score": 0.902
+  },
+  {
+    "drug_index": 3,
+    "drug_name": "Warfarin",
+    "protein_index": 34,
+    "protein_name": "P12345",
+    "score": 0.898
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Warfarin",
+    "protein_index": 16,
+    "protein_name": "P12345",
+    "score": 0.758
+  },
+  {
+    "drug_index": 36,
+    "drug_name": "Metformin",
+    "protein_index": 22,
+    "protein_name": "Q9Y243",
+    "score": 0.75
+  },
+  {
+    "drug_index": 50,
+    "drug_name": "Paracetamol",
+    "protein_index": 37,
+    "protein_name": "P00734",
+    "score": 0.776
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Warfarin",
+    "protein_index": 11,
+    "protein_name": "O60506",
+    "score": 0.987
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Paracetamol",
+    "protein_index": 41,
+    "protein_name": "Q9Y243",
+    "score": 0.783
+  },
+  {
+    "drug_index": 48,
+    "drug_name": "Atorvastatin",
+    "protein_index": 40,
+    "protein_name": "Q9Y243",
+    "score": 0.781
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Amoxicillin",
+    "protein_index": 6,
+    "protein_name": "P12345",
+    "score": 0.785
+  },
+  {
+    "drug_index": 9,
+    "drug_name": "Simvastatin",
+    "protein_index": 8,
+    "protein_name": "P00734",
+    "score": 0.785
+  },
+  {
+    "drug_index": 12,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 10,
+    "protein_name": "O60506",
+    "score": 0.796
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Warfarin",
+    "protein_index": 49,
+    "protein_name": "P00734",
+    "score": 0.866
+  },
+  {
+    "drug_index": 38,
+    "drug_name": "Paracetamol",
+    "protein_index": 39,
+    "protein_name": "Q9Y243",
+    "score": 0.963
+  },
+  {
+    "drug_index": 47,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 13,
+    "protein_name": "Q9Y243",
+    "score": 0.915
+  },
+  {
+    "drug_index": 17,
+    "drug_name": "Metformin",
+    "protein_index": 31,
+    "protein_name": "O60506",
+    "score": 0.816
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Ibuprofen",
+    "protein_index": 7,
+    "protein_name": "Q9UBR4",
+    "score": 0.958
+  },
+  {
+    "drug_index": 24,
+    "drug_name": "Warfarin",
+    "protein_index": 28,
+    "protein_name": "O60506",
+    "score": 0.911
+  },
+  {
+    "drug_index": 3,
+    "drug_name": "Warfarin",
+    "protein_index": 27,
+    "protein_name": "P12345",
+    "score": 0.815
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Paracetamol",
+    "protein_index": 40,
+    "protein_name": "Q9Y243",
+    "score": 0.948
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Aspirin",
+    "protein_index": 18,
+    "protein_name": "Q8GU86",
+    "score": 0.716
+  },
+  {
+    "drug_index": 1,
+    "drug_name": "Simvastatin",
+    "protein_index": 9,
+    "protein_name": "O60506",
+    "score": 0.806
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Aspirin",
+    "protein_index": 15,
+    "protein_name": "P01308",
+    "score": 0.929
+  },
+  {
+    "drug_index": 9,
+    "drug_name": "Simvastatin",
+    "protein_index": 44,
+    "protein_name": "PO2768",
+    "score": 0.851
+  },
+  {
+    "drug_index": 31,
+    "drug_name": "Metformin",
+    "protein_index": 7,
+    "protein_name": "Q9UBR4",
+    "score": 0.776
+  },
+  {
+    "drug_index": 25,
+    "drug_name": "Atorvastatin",
+    "protein_index": 37,
+    "protein_name": "P00734",
+    "score": 0.716
+  },
+  {
+    "drug_index": 24,
+    "drug_name": "Warfarin",
+    "protein_index": 19,
+    "protein_name": "Q9UBR4",
+    "score": 0.912
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Paracetamol",
+    "protein_index": 21,
+    "protein_name": "O60506",
+    "score": 0.964
+  },
+  {
+    "drug_index": 39,
+    "drug_name": "Atorvastatin",
+    "protein_index": 42,
+    "protein_name": "Q9GPI1",
+    "score": 0.981
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Warfarin",
+    "protein_index": 11,
+    "protein_name": "O60506",
+    "score": 0.979
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 8,
+    "protein_name": "P00734",
+    "score": 0.765
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Paracetamol",
+    "protein_index": 15,
+    "protein_name": "P01308",
+    "score": 0.815
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Losartan",
+    "protein_index": 16,
+    "protein_name": "P12345",
+    "score": 0.843
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Aspirin",
+    "protein_index": 36,
+    "protein_name": "PO2768",
+    "score": 0.835
+  },
+  {
+    "drug_index": 9,
+    "drug_name": "Simvastatin",
+    "protein_index": 25,
+    "protein_name": "Q8GU86",
+    "score": 0.805
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Aspirin",
+    "protein_index": 10,
+    "protein_name": "O60506",
+    "score": 0.864
+  },
+  {
+    "drug_index": 18,
+    "drug_name": "Warfarin",
+    "protein_index": 18,
+    "protein_name": "Q8GU86",
+    "score": 0.838
+  },
+  {
+    "drug_index": 19,
+    "drug_name": "Amoxicillin",
+    "protein_index": 34,
+    "protein_name": "P12345",
+    "score": 0.917
+  },
+  {
+    "drug_index": 44,
+    "drug_name": "Simvastatin",
+    "protein_index": 9,
+    "protein_name": "O60506",
+    "score": 0.718
+  },
+  {
+    "drug_index": 19,
+    "drug_name": "Amoxicillin",
+    "protein_index": 37,
+    "protein_name": "P00734",
+    "score": 0.96
+  },
+  {
+    "drug_index": 46,
+    "drug_name": "Ibuprofen",
+    "protein_index": 28,
+    "protein_name": "O60506",
+    "score": 0.765
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Aspirin",
+    "protein_index": 29,
+    "protein_name": "Q8N158",
+    "score": 0.9
+  },
+  {
+    "drug_index": 35,
+    "drug_name": "Aspirin",
+    "protein_index": 32,
+    "protein_name": "Q9UBR4",
+    "score": 0.763
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Amoxicillin",
+    "protein_index": 8,
+    "protein_name": "P00734",
+    "score": 0.77
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Losartan",
+    "protein_index": 4,
+    "protein_name": "P01308",
+    "score": 0.819
+  },
+  {
+    "drug_index": 2,
+    "drug_name": "Paracetamol",
+    "protein_index": 10,
+    "protein_name": "O60506",
+    "score": 0.929
+  },
+  {
+    "drug_index": 25,
+    "drug_name": "Atorvastatin",
+    "protein_index": 27,
+    "protein_name": "P12345",
+    "score": 0.72
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Losartan",
+    "protein_index": 19,
+    "protein_name": "Q9UBR4",
+    "score": 0.786
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Paracetamol",
+    "protein_index": 47,
+    "protein_name": "P12345",
+    "score": 0.777
+  },
+  {
+    "drug_index": 24,
+    "drug_name": "Warfarin",
+    "protein_index": 7,
+    "protein_name": "Q9UBR4",
+    "score": 0.985
+  },
+  {
+    "drug_index": 23,
+    "drug_name": "Amoxicillin",
+    "protein_index": 49,
+    "protein_name": "P00734",
+    "score": 0.859
+  },
+  {
+    "drug_index": 4,
+    "drug_name": "Losartan",
+    "protein_index": 3,
+    "protein_name": "Q9Y243",
+    "score": 0.84
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Aspirin",
+    "protein_index": 48,
+    "protein_name": "Q8GU86",
+    "score": 0.728
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Amoxicillin",
+    "protein_index": 47,
+    "protein_name": "P12345",
+    "score": 0.834
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Warfarin",
+    "protein_index": 44,
+    "protein_name": "PO2768",
+    "score": 0.982
+  },
+  {
+    "drug_index": 5,
+    "drug_name": "Atorvastatin",
+    "protein_index": 15,
+    "protein_name": "P01308",
+    "score": 0.722
+  },
+  {
+    "drug_index": 7,
+    "drug_name": "Paracetamol",
+    "protein_index": 25,
+    "protein_name": "Q8GU86",
+    "score": 0.962
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Paracetamol",
+    "protein_index": 25,
+    "protein_name": "Q8GU86",
+    "score": 0.917
+  },
+  {
+    "drug_index": 36,
+    "drug_name": "Metformin",
+    "protein_index": 2,
+    "protein_name": "Q9GPI1",
+    "score": 0.796
+  },
+  {
+    "drug_index": 7,
+    "drug_name": "Paracetamol",
+    "protein_index": 46,
+    "protein_name": "Q9Y243",
+    "score": 0.78
+  },
+  {
+    "drug_index": 45,
+    "drug_name": "Aspirin",
+    "protein_index": 40,
+    "protein_name": "Q9Y243",
+    "score": 0.868
+  },
+  {
+    "drug_index": 26,
+    "drug_name": "Ibuprofen",
+    "protein_index": 11,
+    "protein_name": "O60506",
+    "score": 0.97
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Ibuprofen",
+    "protein_index": 37,
+    "protein_name": "P00734",
+    "score": 0.752
+  },
+  {
+    "drug_index": 6,
+    "drug_name": "Aspirin",
+    "protein_index": 7,
+    "protein_name": "Q9UBR4",
+    "score": 0.735
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Aspirin",
+    "protein_index": 18,
+    "protein_name": "Q8GU86",
+    "score": 0.852
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Paracetamol",
+    "protein_index": 50,
+    "protein_name": "Q9UBR4",
+    "score": 0.74
+  },
+  {
+    "drug_index": 2,
+    "drug_name": "Paracetamol",
+    "protein_index": 20,
+    "protein_name": "P00734",
+    "score": 0.714
+  },
+  {
+    "drug_index": 36,
+    "drug_name": "Metformin",
+    "protein_index": 4,
+    "protein_name": "P01308",
+    "score": 0.953
+  },
+  {
+    "drug_index": 41,
+    "drug_name": "Simvastatin",
+    "protein_index": 20,
+    "protein_name": "P00734",
+    "score": 0.767
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Amoxicillin",
+    "protein_index": 12,
+    "protein_name": "Q9GPI1",
+    "score": 0.744
+  },
+  {
+    "drug_index": 40,
+    "drug_name": "Paracetamol",
+    "protein_index": 7,
+    "protein_name": "Q9UBR4",
+    "score": 0.711
+  }
+]

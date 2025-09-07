@@ -1,0 +1,1802 @@
+[
+  {
+    "drug_index": 0,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      -1.6264318600897365,
+      -2.3683465345020633
+    ]
+  },
+  {
+    "drug_index": 1,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      2.141260720377014,
+      2.303769613016519
+    ]
+  },
+  {
+    "drug_index": 2,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      2.4028804598747637,
+      2.2714926361849552
+    ]
+  },
+  {
+    "drug_index": 3,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      2.5633938250116834,
+      -0.40270662453327066
+    ]
+  },
+  {
+    "drug_index": 4,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      1.937980665431289,
+      2.058379570562742
+    ]
+  },
+  {
+    "drug_index": 5,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      -2.540139380428265,
+      -1.955477978169635
+    ]
+  },
+  {
+    "drug_index": 6,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      -1.8524630565033111,
+      2.0320271578678475
+    ]
+  },
+  {
+    "drug_index": 7,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      1.576584460566357,
+      -2.28676538181536
+    ]
+  },
+  {
+    "drug_index": 8,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      -1.6308753187220888,
+      2.4966622116960338
+    ]
+  },
+  {
+    "drug_index": 9,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      -1.8362611388142709,
+      -1.9556070402885284
+    ]
+  },
+  {
+    "drug_index": 10,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      -2.9016048099727776,
+      -2.7040924709757883
+    ]
+  },
+  {
+    "drug_index": 11,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      2.2384529110635007,
+      -2.070569813110528
+    ]
+  },
+  {
+    "drug_index": 12,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      1.605566015343611,
+      2.2586873186691805
+    ]
+  },
+  {
+    "drug_index": 13,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      1.0828215772548484,
+      3.112072097056401
+    ]
+  },
+  {
+    "drug_index": 14,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      -2.626501756656149,
+      -1.8851390876336942
+    ]
+  },
+  {
+    "drug_index": 15,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      2.860662309982572,
+      1.496035148163655
+    ]
+  },
+  {
+    "drug_index": 16,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      1.241323240147462,
+      -1.28953837807504
+    ]
+  },
+  {
+    "drug_index": 17,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      1.6566465279441167,
+      2.1055395636222802
+    ]
+  },
+  {
+    "drug_index": 18,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      -1.7698297468928987,
+      2.811636700056824
+    ]
+  },
+  {
+    "drug_index": 19,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      2.1531564770545306,
+      1.9334004974851728
+    ]
+  },
+  {
+    "drug_index": 20,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      2.6386921827047565,
+      -3.2607616522443195
+    ]
+  },
+  {
+    "drug_index": 21,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      2.583333069040781,
+      -0.5490798782035655
+    ]
+  },
+  {
+    "drug_index": 22,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      2.080646745769892,
+      -2.1073878189248347
+    ]
+  },
+  {
+    "drug_index": 23,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      2.0046312428409596,
+      -1.5770231950339697
+    ]
+  },
+  {
+    "drug_index": 24,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      2.324715164603434,
+      2.2106847999177446
+    ]
+  },
+  {
+    "drug_index": 25,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      1.878780149086341,
+      1.980857174504396
+    ]
+  },
+  {
+    "drug_index": 26,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      -1.9420066839227124,
+      -2.9573348992142874
+    ]
+  },
+  {
+    "drug_index": 27,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      -1.2727806747650074,
+      1.8748713207752126
+    ]
+  },
+  {
+    "drug_index": 28,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      -2.1294143288285117,
+      -2.312309282736824
+    ]
+  },
+  {
+    "drug_index": 29,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      2.0498844950757125,
+      -1.4604275124822026
+    ]
+  },
+  {
+    "drug_index": 30,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      1.051294420548399,
+      -0.7787391057032709
+    ]
+  },
+  {
+    "drug_index": 31,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      -2.7811447886086134,
+      1.965047907592703
+    ]
+  },
+  {
+    "drug_index": 32,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      2.200596725689085,
+      2.0702391245956564
+    ]
+  },
+  {
+    "drug_index": 33,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      0.7407532251032978,
+      1.9252217666141904
+    ]
+  },
+  {
+    "drug_index": 34,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      1.5736428032415841,
+      2.011548652340302
+    ]
+  },
+  {
+    "drug_index": 35,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      1.3305505033721552,
+      2.3389967509615177
+    ]
+  },
+  {
+    "drug_index": 36,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      -1.8713034474239836,
+      -1.6919715719005937
+    ]
+  },
+  {
+    "drug_index": 37,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      2.074715771347294,
+      -1.3298344841533152
+    ]
+  },
+  {
+    "drug_index": 38,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      2.4521111234618953,
+      1.7897522544993534
+    ]
+  },
+  {
+    "drug_index": 39,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      -2.2428811499468395,
+      -2.6587022151183404
+    ]
+  },
+  {
+    "drug_index": 40,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      -1.939191150099955,
+      -2.091811022679977
+    ]
+  },
+  {
+    "drug_index": 41,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      1.4729931458463814,
+      2.2799126504071987
+    ]
+  },
+  {
+    "drug_index": 42,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      2.4169009207360457,
+      2.364857140404759
+    ]
+  },
+  {
+    "drug_index": 43,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      1.6119731262215908,
+      1.991053443098467
+    ]
+  },
+  {
+    "drug_index": 44,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      -0.8538672980300377,
+      -0.9990958128513272
+    ]
+  },
+  {
+    "drug_index": 45,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      2.769974406522324,
+      1.8356609508351696
+    ]
+  },
+  {
+    "drug_index": 46,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      -2.0340860592301575,
+      1.675321558753169
+    ]
+  },
+  {
+    "drug_index": 47,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      0.7322934743383396,
+      0.44460887278619476
+    ]
+  },
+  {
+    "drug_index": 48,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      2.4367600576712327,
+      2.1997842095635187
+    ]
+  },
+  {
+    "drug_index": 49,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      3.2594765798343834,
+      2.5750077990028277
+    ]
+  },
+  {
+    "drug_index": 50,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      -2.1803110152835887,
+      2.749708490778413
+    ]
+  },
+  {
+    "drug_index": 51,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      -1.84160163859143,
+      2.919611836450617
+    ]
+  },
+  {
+    "drug_index": 52,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      3.113522986998379,
+      1.2078398066718878
+    ]
+  },
+  {
+    "drug_index": 53,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      -2.7638557866934375,
+      -2.4602125908982035
+    ]
+  },
+  {
+    "drug_index": 54,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      -1.587911183502924,
+      1.649565099909187
+    ]
+  },
+  {
+    "drug_index": 55,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      1.9337146422516813,
+      1.3139726376347753
+    ]
+  },
+  {
+    "drug_index": 56,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      -1.8970310288427779,
+      -1.9541320854829167
+    ]
+  },
+  {
+    "drug_index": 57,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      2.321529344770913,
+      -2.18696234542727
+    ]
+  },
+  {
+    "drug_index": 58,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      -1.9884128881242717,
+      2.7126318827030875
+    ]
+  },
+  {
+    "drug_index": 59,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      -2.1067467964370175,
+      -2.5191526416367
+    ]
+  },
+  {
+    "drug_index": 60,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      1.5328465141476433,
+      -3.455106292377397
+    ]
+  },
+  {
+    "drug_index": 61,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      0.9951120108530007,
+      -0.7995083206427636
+    ]
+  },
+  {
+    "drug_index": 62,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      -3.125934282327653,
+      2.4023299939482663
+    ]
+  },
+  {
+    "drug_index": 63,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      -1.9773391163924416,
+      -2.1149864872314432
+    ]
+  },
+  {
+    "drug_index": 64,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      2.4860151946421256,
+      1.435191032326312
+    ]
+  },
+  {
+    "drug_index": 65,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      2.1468435501992893,
+      -0.5972410130779655
+    ]
+  },
+  {
+    "drug_index": 66,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      -1.168035224998453,
+      -2.01629167240592
+    ]
+  },
+  {
+    "drug_index": 67,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      -2.851046752839515,
+      1.9912132372668416
+    ]
+  },
+  {
+    "drug_index": 68,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      2.0544701294800576,
+      -2.263011145201666
+    ]
+  },
+  {
+    "drug_index": 69,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      -1.870093684128151,
+      -1.1763136903855314
+    ]
+  },
+  {
+    "drug_index": 70,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      0.9331880304555267,
+      2.1110535324237936
+    ]
+  },
+  {
+    "drug_index": 71,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      -2.3266140456922875,
+      -1.2993463725647305
+    ]
+  },
+  {
+    "drug_index": 72,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      -1.7971804206810829,
+      -2.411757615546551
+    ]
+  },
+  {
+    "drug_index": 73,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      1.625357145192133,
+      2.63490730311773
+    ]
+  },
+  {
+    "drug_index": 74,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      -1.6065089363295795,
+      -1.4809589076871112
+    ]
+  },
+  {
+    "drug_index": 75,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      -1.6521769201592837,
+      1.2579015420175481
+    ]
+  },
+  {
+    "drug_index": 76,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      3.0304305578296935,
+      -1.3668288140741622
+    ]
+  },
+  {
+    "drug_index": 77,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      1.8009474020062517,
+      1.967878874620977
+    ]
+  },
+  {
+    "drug_index": 78,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      -2.1529369692392275,
+      1.582920430914462
+    ]
+  },
+  {
+    "drug_index": 79,
+    "name": "Warfarin",
+    "type": "drug",
+    "embedding": [
+      -2.387698810174101,
+      -1.1937290970588417
+    ]
+  },
+  {
+    "drug_index": 80,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      2.558949570997744,
+      -1.3781832005908452
+    ]
+  },
+  {
+    "drug_index": 81,
+    "name": "Paracetamol",
+    "type": "drug",
+    "embedding": [
+      -2.087697012770984,
+      -1.1639942318959906
+    ]
+  },
+  {
+    "drug_index": 82,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      -1.3224115688057538,
+      -1.02342588940229
+    ]
+  },
+  {
+    "drug_index": 83,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      1.327748065220695,
+      2.1012121794385816
+    ]
+  },
+  {
+    "drug_index": 84,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      -1.531019896778409,
+      1.3828680915746552
+    ]
+  },
+  {
+    "drug_index": 85,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      2.153573725416482,
+      2.0587941812957595
+    ]
+  },
+  {
+    "drug_index": 86,
+    "name": "Aspirin",
+    "type": "drug",
+    "embedding": [
+      -2.2937283580095245,
+      -1.1672415409484245
+    ]
+  },
+  {
+    "drug_index": 87,
+    "name": "Ibuprofen",
+    "type": "drug",
+    "embedding": [
+      1.2079373543555278,
+      -2.187504295518803
+    ]
+  },
+  {
+    "drug_index": 88,
+    "name": "Ciprofloxacin",
+    "type": "drug",
+    "embedding": [
+      -2.0105468805113986,
+      -2.238542766411359
+    ]
+  },
+  {
+    "drug_index": 89,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      2.2426236519213174,
+      1.9119867987545223
+    ]
+  },
+  {
+    "drug_index": 90,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      -1.7459628930306488,
+      -2.967474050509276
+    ]
+  },
+  {
+    "drug_index": 91,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      -2.803523915737786,
+      2.0854959289864
+    ]
+  },
+  {
+    "drug_index": 92,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      1.9947814855775883,
+      2.75462447530339
+    ]
+  },
+  {
+    "drug_index": 93,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      -1.4397931452662576,
+      2.2907900029368355
+    ]
+  },
+  {
+    "drug_index": 94,
+    "name": "Losartan",
+    "type": "drug",
+    "embedding": [
+      2.0059838612683003,
+      1.909710732477506
+    ]
+  },
+  {
+    "drug_index": 95,
+    "name": "Atorvastatin",
+    "type": "drug",
+    "embedding": [
+      1.5776144404316168,
+      -2.4935333494595913
+    ]
+  },
+  {
+    "drug_index": 96,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      -1.8098727931398089,
+      -2.6651807399086493
+    ]
+  },
+  {
+    "drug_index": 97,
+    "name": "Simvastatin",
+    "type": "drug",
+    "embedding": [
+      -1.0919038697121726,
+      -1.8894198897841161
+    ]
+  },
+  {
+    "drug_index": 98,
+    "name": "Amoxicillin",
+    "type": "drug",
+    "embedding": [
+      -2.154949109266178,
+      2.47658553453231
+    ]
+  },
+  {
+    "drug_index": 99,
+    "name": "Metformin",
+    "type": "drug",
+    "embedding": [
+      2.501143866599503,
+      -3.163018638201978
+    ]
+  },
+  {
+    "protein_index": 0,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      1.8935016498121158,
+      -1.1090059184996013
+    ]
+  },
+  {
+    "protein_index": 1,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      -1.775025351785902,
+      -2.3453064496207436
+    ]
+  },
+  {
+    "protein_index": 2,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      2.633095201020283,
+      -1.0250312245173503
+    ]
+  },
+  {
+    "protein_index": 3,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      -2.0090502868406177,
+      2.515372700470353
+    ]
+  },
+  {
+    "protein_index": 4,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      1.5627408969318533,
+      -2.965751109327349
+    ]
+  },
+  {
+    "protein_index": 5,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      -2.172520184518676,
+      -2.1793468041136257
+    ]
+  },
+  {
+    "protein_index": 6,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      -1.8852784447391802,
+      1.9144556854464947
+    ]
+  },
+  {
+    "protein_index": 7,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      1.8388464255263965,
+      -2.6716098885166755
+    ]
+  },
+  {
+    "protein_index": 8,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      2.0944947413847355,
+      -1.6649033717632378
+    ]
+  },
+  {
+    "protein_index": 9,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      1.9551032592806454,
+      -2.110420348401718
+    ]
+  },
+  {
+    "protein_index": 10,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      2.1340873816113275,
+      2.9736507429983066
+    ]
+  },
+  {
+    "protein_index": 11,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      -2.131304724602294,
+      2.4113923566675206
+    ]
+  },
+  {
+    "protein_index": 12,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      -1.9688604184080316,
+      -1.5037289600050938
+    ]
+  },
+  {
+    "protein_index": 13,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      -2.411026519020081,
+      -2.4549441064097093
+    ]
+  },
+  {
+    "protein_index": 14,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      2.3988246072436845,
+      -2.8049210961295734
+    ]
+  },
+  {
+    "protein_index": 15,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      -1.28062738755242,
+      1.4883314291519927
+    ]
+  },
+  {
+    "protein_index": 16,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      2.7249107311628826,
+      3.107934255620412
+    ]
+  },
+  {
+    "protein_index": 17,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      -2.101960909794913,
+      0.14293675232485814
+    ]
+  },
+  {
+    "protein_index": 18,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      -2.314997756305635,
+      -1.802251256293566
+    ]
+  },
+  {
+    "protein_index": 19,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      -2.0552990543705887,
+      -2.0277634445752817
+    ]
+  },
+  {
+    "protein_index": 20,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      2.875793677853175,
+      -2.144769171172282
+    ]
+  },
+  {
+    "protein_index": 21,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      0.8769483538492784,
+      -1.1853432962293096
+    ]
+  },
+  {
+    "protein_index": 22,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      2.7969278659236,
+      -1.0580683387388856
+    ]
+  },
+  {
+    "protein_index": 23,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      0.983808535643578,
+      3.030448373984964
+    ]
+  },
+  {
+    "protein_index": 24,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      -2.3546056768203374,
+      2.3501331653363304
+    ]
+  },
+  {
+    "protein_index": 25,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      -2.6212923449988583,
+      1.6391019177253563
+    ]
+  },
+  {
+    "protein_index": 26,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      3.0610672653055957,
+      -1.4902043723163847
+    ]
+  },
+  {
+    "protein_index": 27,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      2.10769466505366,
+      1.7991206598717993
+    ]
+  },
+  {
+    "protein_index": 28,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      1.3085580275570168,
+      -2.9286414790646376
+    ]
+  },
+  {
+    "protein_index": 29,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      1.8875809085155546,
+      -2.9584210215195474
+    ]
+  },
+  {
+    "protein_index": 30,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      -2.546465152093583,
+      -1.5772902246513874
+    ]
+  },
+  {
+    "protein_index": 31,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      -2.1827112000003797,
+      -1.525880705324616
+    ]
+  },
+  {
+    "protein_index": 32,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      -1.9891900231004653,
+      2.297469504246068
+    ]
+  },
+  {
+    "protein_index": 33,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      2.070447048513482,
+      -2.1453713616969865
+    ]
+  },
+  {
+    "protein_index": 34,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      1.634282997029058,
+      2.013887407734992
+    ]
+  },
+  {
+    "protein_index": 35,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      -2.0411575243762807,
+      -0.8205261121670653
+    ]
+  },
+  {
+    "protein_index": 36,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      1.6439554441022943,
+      -1.7535833911490253
+    ]
+  },
+  {
+    "protein_index": 37,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      2.328380713421903,
+      -1.4378693106515326
+    ]
+  },
+  {
+    "protein_index": 38,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      1.9966836346213779,
+      -1.9217008737029766
+    ]
+  },
+  {
+    "protein_index": 39,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      -2.808084172906126,
+      -1.832419310021852
+    ]
+  },
+  {
+    "protein_index": 40,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      2.034217140809599,
+      -2.747568644120019
+    ]
+  },
+  {
+    "protein_index": 41,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      1.5837182460305617,
+      1.5136779370456441
+    ]
+  },
+  {
+    "protein_index": 42,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      -2.9202737784826835,
+      -3.039320534439025
+    ]
+  },
+  {
+    "protein_index": 43,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      1.987667701238189,
+      1.0906960296526051
+    ]
+  },
+  {
+    "protein_index": 44,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      1.7869505394324514,
+      0.5543927763433993
+    ]
+  },
+  {
+    "protein_index": 45,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      1.56608350557934,
+      -1.4800538875067448
+    ]
+  },
+  {
+    "protein_index": 46,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      1.8683632711446112,
+      2.5164736670875283
+    ]
+  },
+  {
+    "protein_index": 47,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      -2.09954891480301,
+      2.7856680851933264
+    ]
+  },
+  {
+    "protein_index": 48,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      -1.2979198247984702,
+      -2.067641172614361
+    ]
+  },
+  {
+    "protein_index": 49,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      2.5902656858505186,
+      2.19205857707448
+    ]
+  },
+  {
+    "protein_index": 50,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      2.302818247100653,
+      -2.045987916226014
+    ]
+  },
+  {
+    "protein_index": 51,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      -1.897169713721019,
+      -2.5689108647158587
+    ]
+  },
+  {
+    "protein_index": 52,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      -2.7708795914553166,
+      -2.1469526834260426
+    ]
+  },
+  {
+    "protein_index": 53,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      1.6887269623124612,
+      0.5533939647010173
+    ]
+  },
+  {
+    "protein_index": 54,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      -1.408242341549387,
+      -2.4622760422579266
+    ]
+  },
+  {
+    "protein_index": 55,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      2.393254743451271,
+      -1.4816181332163239
+    ]
+  },
+  {
+    "protein_index": 56,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      -2.296245757233411,
+      -1.5239177916165312
+    ]
+  },
+  {
+    "protein_index": 57,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      0.8196396777978656,
+      -2.6489055918894557
+    ]
+  },
+  {
+    "protein_index": 58,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      2.705750344426289,
+      2.1643169813337044
+    ]
+  },
+  {
+    "protein_index": 59,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      2.010685194328989,
+      -1.7337638349576647
+    ]
+  },
+  {
+    "protein_index": 60,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      1.340688499910019,
+      -2.2534512620875224
+    ]
+  },
+  {
+    "protein_index": 61,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      -2.340179832176489,
+      -1.695485065239456
+    ]
+  },
+  {
+    "protein_index": 62,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      -1.9988379353764627,
+      2.354731446760891
+    ]
+  },
+  {
+    "protein_index": 63,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      -2.4804370417573196,
+      1.8058964939302957
+    ]
+  },
+  {
+    "protein_index": 64,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      -2.177330463212842,
+      -2.0005448916304465
+    ]
+  },
+  {
+    "protein_index": 65,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      -2.195513878144493,
+      0.6779546911472811
+    ]
+  },
+  {
+    "protein_index": 66,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      2.627484738905849,
+      1.7537770111556257
+    ]
+  },
+  {
+    "protein_index": 67,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      2.506594713793433,
+      -2.246850957965084
+    ]
+  },
+  {
+    "protein_index": 68,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      -2.8157956691964525,
+      2.9661630893735116
+    ]
+  },
+  {
+    "protein_index": 69,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      -1.9299317612364393,
+      2.0640623764716803
+    ]
+  },
+  {
+    "protein_index": 70,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      2.168795867761578,
+      1.9583161781316376
+    ]
+  },
+  {
+    "protein_index": 71,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      1.8560273926098363,
+      1.4063186204336704
+    ]
+  },
+  {
+    "protein_index": 72,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      -0.7771065365414778,
+      -1.7070620149879723
+    ]
+  },
+  {
+    "protein_index": 73,
+    "name": "Q8GU86",
+    "type": "protein",
+    "embedding": [
+      2.931444131888146,
+      1.6480638115300514
+    ]
+  },
+  {
+    "protein_index": 74,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      -2.32431396518561,
+      1.5728291663188327
+    ]
+  },
+  {
+    "protein_index": 75,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      -1.7737827386752327,
+      -1.5369154798075353
+    ]
+  },
+  {
+    "protein_index": 76,
+    "name": "O60506",
+    "type": "protein",
+    "embedding": [
+      -2.056731406370924,
+      -2.438539235529956
+    ]
+  },
+  {
+    "protein_index": 77,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      -2.5416563947839537,
+      1.4466701757990879
+    ]
+  },
+  {
+    "protein_index": 78,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      -2.5987876035494186,
+      0.9305231306674984
+    ]
+  },
+  {
+    "protein_index": 79,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      -2.3915614995804177,
+      -2.304852437415304
+    ]
+  },
+  {
+    "protein_index": 80,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      2.7132571242185985,
+      -1.2360715102599111
+    ]
+  },
+  {
+    "protein_index": 81,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      1.483967764036318,
+      -2.299785423441207
+    ]
+  },
+  {
+    "protein_index": 82,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      2.179624045704625,
+      -2.2098850168969206
+    ]
+  },
+  {
+    "protein_index": 83,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      2.442923535747644,
+      1.8228707001712148
+    ]
+  },
+  {
+    "protein_index": 84,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      -1.7573889956830016,
+      1.3732461679978518
+    ]
+  },
+  {
+    "protein_index": 85,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      1.3922443399311923,
+      -2.8601086448620325
+    ]
+  },
+  {
+    "protein_index": 86,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      -2.7193541945224227,
+      -2.516569060105569
+    ]
+  },
+  {
+    "protein_index": 87,
+    "name": "P00734",
+    "type": "protein",
+    "embedding": [
+      -2.7042648018878777,
+      1.795718265069497
+    ]
+  },
+  {
+    "protein_index": 88,
+    "name": "P12345",
+    "type": "protein",
+    "embedding": [
+      -2.2404333841078983,
+      -2.316211070349786
+    ]
+  },
+  {
+    "protein_index": 89,
+    "name": "Q9Y243",
+    "type": "protein",
+    "embedding": [
+      -1.6546371749438895,
+      -1.1524903844564574
+    ]
+  },
+  {
+    "protein_index": 90,
+    "name": "Q9GPI1",
+    "type": "protein",
+    "embedding": [
+      -2.3508477694428915,
+      -2.731986245306797
+    ]
+  },
+  {
+    "protein_index": 91,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      2.8464957856349824,
+      -2.0960138446993164
+    ]
+  },
+  {
+    "protein_index": 92,
+    "name": "Q9UBR4",
+    "type": "protein",
+    "embedding": [
+      -2.6424996249781993,
+      2.044689076213039
+    ]
+  },
+  {
+    "protein_index": 93,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      -2.1487213689570166,
+      2.249630728353944
+    ]
+  },
+  {
+    "protein_index": 94,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      -2.38431646982256,
+      -1.2861960843342737
+    ]
+  },
+  {
+    "protein_index": 95,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      -2.509466509008486,
+      -2.1432916848012415
+    ]
+  },
+  {
+    "protein_index": 96,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      -2.333214268620729,
+      2.2292408055192596
+    ]
+  },
+  {
+    "protein_index": 97,
+    "name": "Q8N158",
+    "type": "protein",
+    "embedding": [
+      -1.682800173596781,
+      -1.3785847063408707
+    ]
+  },
+  {
+    "protein_index": 98,
+    "name": "PO2768",
+    "type": "protein",
+    "embedding": [
+      0.27819349772084423,
+      2.7269836901487445
+    ]
+  },
+  {
+    "protein_index": 99,
+    "name": "P01308",
+    "type": "protein",
+    "embedding": [
+      0.061849818748244134,
+      -2.024124282283735
+    ]
+  }
+]

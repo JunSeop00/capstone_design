@@ -1,0 +1,702 @@
+[
+  {
+    "drug_index": 30,
+    "drug_name": "Bupropion",
+    "protein_index": 50,
+    "protein_name": "P24293",
+    "score": 0.714
+  },
+  {
+    "drug_index": 45,
+    "drug_name": "Trazodone",
+    "protein_index": 44,
+    "protein_name": "P59133",
+    "score": 0.887
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Azithromycin",
+    "protein_index": 49,
+    "protein_name": "P12118",
+    "score": 0.738
+  },
+  {
+    "drug_index": 14,
+    "drug_name": "Alprazolam",
+    "protein_index": 6,
+    "protein_name": "P99653",
+    "score": 0.758
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Clopidogrel",
+    "protein_index": 20,
+    "protein_name": "P71908",
+    "score": 0.731
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Amlodipine",
+    "protein_index": 6,
+    "protein_name": "P99653",
+    "score": 0.96
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Zolpidem",
+    "protein_index": 11,
+    "protein_name": "P34037",
+    "score": 0.962
+  },
+  {
+    "drug_index": 37,
+    "drug_name": "Propranolol",
+    "protein_index": 7,
+    "protein_name": "P96815",
+    "score": 0.934
+  },
+  {
+    "drug_index": 5,
+    "drug_name": "Lisinopril",
+    "protein_index": 14,
+    "protein_name": "P66910",
+    "score": 0.849
+  },
+  {
+    "drug_index": 26,
+    "drug_name": "Warfarin",
+    "protein_index": 35,
+    "protein_name": "P15731",
+    "score": 0.71
+  },
+  {
+    "drug_index": 26,
+    "drug_name": "Warfarin",
+    "protein_index": 26,
+    "protein_name": "P22215",
+    "score": 0.947
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Azithromycin",
+    "protein_index": 8,
+    "protein_name": "P77392",
+    "score": 0.974
+  },
+  {
+    "drug_index": 41,
+    "drug_name": "Carvedilol",
+    "protein_index": 15,
+    "protein_name": "P46240",
+    "score": 0.988
+  },
+  {
+    "drug_index": 38,
+    "drug_name": "Loratadine",
+    "protein_index": 14,
+    "protein_name": "P66910",
+    "score": 0.78
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Metoprolol",
+    "protein_index": 25,
+    "protein_name": "P55841",
+    "score": 0.746
+  },
+  {
+    "drug_index": 35,
+    "drug_name": "Quetiapine",
+    "protein_index": 23,
+    "protein_name": "P55971",
+    "score": 0.755
+  },
+  {
+    "drug_index": 12,
+    "drug_name": "Gabapentin",
+    "protein_index": 32,
+    "protein_name": "P77698",
+    "score": 0.983
+  },
+  {
+    "drug_index": 31,
+    "drug_name": "Meloxicam",
+    "protein_index": 2,
+    "protein_name": "P34500",
+    "score": 0.708
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Hydrochlorothiazide",
+    "protein_index": 5,
+    "protein_name": "P72505",
+    "score": 0.83
+  },
+  {
+    "drug_index": 43,
+    "drug_name": "Cyclobenzaprine",
+    "protein_index": 20,
+    "protein_name": "P71908",
+    "score": 0.763
+  },
+  {
+    "drug_index": 18,
+    "drug_name": "Prednisone",
+    "protein_index": 23,
+    "protein_name": "P55971",
+    "score": 0.953
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 38,
+    "protein_name": "P94438",
+    "score": 0.893
+  },
+  {
+    "drug_index": 42,
+    "drug_name": "Venlafaxine",
+    "protein_index": 21,
+    "protein_name": "P23510",
+    "score": 0.76
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Duloxetine",
+    "protein_index": 47,
+    "protein_name": "P95699",
+    "score": 0.755
+  },
+  {
+    "drug_index": 50,
+    "drug_name": "Clindamycin",
+    "protein_index": 46,
+    "protein_name": "P54332",
+    "score": 0.96
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Amlodipine",
+    "protein_index": 29,
+    "protein_name": "P72319",
+    "score": 0.789
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Hydrochlorothiazide",
+    "protein_index": 31,
+    "protein_name": "P73273",
+    "score": 0.865
+  },
+  {
+    "drug_index": 50,
+    "drug_name": "Clindamycin",
+    "protein_index": 27,
+    "protein_name": "P42298",
+    "score": 0.775
+  },
+  {
+    "drug_index": 42,
+    "drug_name": "Venlafaxine",
+    "protein_index": 49,
+    "protein_name": "P12118",
+    "score": 0.785
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 25,
+    "protein_name": "P55841",
+    "score": 0.769
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 27,
+    "protein_name": "P42298",
+    "score": 0.902
+  },
+  {
+    "drug_index": 3,
+    "drug_name": "Simvastatin",
+    "protein_index": 34,
+    "protein_name": "P78364",
+    "score": 0.898
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Cephalexin",
+    "protein_index": 16,
+    "protein_name": "P47816",
+    "score": 0.758
+  },
+  {
+    "drug_index": 36,
+    "drug_name": "Spironolactone",
+    "protein_index": 22,
+    "protein_name": "P80055",
+    "score": 0.75
+  },
+  {
+    "drug_index": 50,
+    "drug_name": "Clindamycin",
+    "protein_index": 37,
+    "protein_name": "P24379",
+    "score": 0.776
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Cephalexin",
+    "protein_index": 11,
+    "protein_name": "P34037",
+    "score": 0.987
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Zolpidem",
+    "protein_index": 41,
+    "protein_name": "P43897",
+    "score": 0.783
+  },
+  {
+    "drug_index": 48,
+    "drug_name": "Terazosin",
+    "protein_index": 40,
+    "protein_name": "P87490",
+    "score": 0.781
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Lorazepam",
+    "protein_index": 6,
+    "protein_name": "P99653",
+    "score": 0.785
+  },
+  {
+    "drug_index": 9,
+    "drug_name": "Losartan",
+    "protein_index": 8,
+    "protein_name": "P77392",
+    "score": 0.785
+  },
+  {
+    "drug_index": 12,
+    "drug_name": "Gabapentin",
+    "protein_index": 10,
+    "protein_name": "P74765",
+    "score": 0.796
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Cephalexin",
+    "protein_index": 49,
+    "protein_name": "P12118",
+    "score": 0.866
+  },
+  {
+    "drug_index": 38,
+    "drug_name": "Loratadine",
+    "protein_index": 39,
+    "protein_name": "P13924",
+    "score": 0.963
+  },
+  {
+    "drug_index": 47,
+    "drug_name": "Rosuvastatin",
+    "protein_index": 13,
+    "protein_name": "P36146",
+    "score": 0.915
+  },
+  {
+    "drug_index": 17,
+    "drug_name": "Furosemide",
+    "protein_index": 31,
+    "protein_name": "P73273",
+    "score": 0.816
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Amlodipine",
+    "protein_index": 7,
+    "protein_name": "P96815",
+    "score": 0.958
+  },
+  {
+    "drug_index": 24,
+    "drug_name": "Tamsulosin",
+    "protein_index": 28,
+    "protein_name": "P50106",
+    "score": 0.911
+  },
+  {
+    "drug_index": 3,
+    "drug_name": "Simvastatin",
+    "protein_index": 27,
+    "protein_name": "P42298",
+    "score": 0.815
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Zolpidem",
+    "protein_index": 40,
+    "protein_name": "P87490",
+    "score": 0.948
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Duloxetine",
+    "protein_index": 18,
+    "protein_name": "P59568",
+    "score": 0.716
+  },
+  {
+    "drug_index": 1,
+    "drug_name": "Ibuprofen",
+    "protein_index": 9,
+    "protein_name": "P41282",
+    "score": 0.806
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Duloxetine",
+    "protein_index": 15,
+    "protein_name": "P46240",
+    "score": 0.929
+  },
+  {
+    "drug_index": 9,
+    "drug_name": "Losartan",
+    "protein_index": 44,
+    "protein_name": "P59133",
+    "score": 0.851
+  },
+  {
+    "drug_index": 31,
+    "drug_name": "Meloxicam",
+    "protein_index": 7,
+    "protein_name": "P96815",
+    "score": 0.776
+  },
+  {
+    "drug_index": 25,
+    "drug_name": "Escitalopram",
+    "protein_index": 37,
+    "protein_name": "P24379",
+    "score": 0.716
+  },
+  {
+    "drug_index": 24,
+    "drug_name": "Tamsulosin",
+    "protein_index": 19,
+    "protein_name": "P46224",
+    "score": 0.912
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Zolpidem",
+    "protein_index": 21,
+    "protein_name": "P23510",
+    "score": 0.964
+  },
+  {
+    "drug_index": 39,
+    "drug_name": "Pantoprazole",
+    "protein_index": 42,
+    "protein_name": "P77658",
+    "score": 0.981
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Cephalexin",
+    "protein_index": 11,
+    "protein_name": "P34037",
+    "score": 0.979
+  },
+  {
+    "drug_index": 20,
+    "drug_name": "Ciprofloxacin",
+    "protein_index": 8,
+    "protein_name": "P77392",
+    "score": 0.765
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Metoprolol",
+    "protein_index": 15,
+    "protein_name": "P46240",
+    "score": 0.815
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Clopidogrel",
+    "protein_index": 16,
+    "protein_name": "P47816",
+    "score": 0.843
+  },
+  {
+    "drug_index": 27,
+    "drug_name": "Duloxetine",
+    "protein_index": 36,
+    "protein_name": "P51165",
+    "score": 0.835
+  },
+  {
+    "drug_index": 9,
+    "drug_name": "Losartan",
+    "protein_index": 25,
+    "protein_name": "P55841",
+    "score": 0.805
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Hydrochlorothiazide",
+    "protein_index": 10,
+    "protein_name": "P74765",
+    "score": 0.864
+  },
+  {
+    "drug_index": 18,
+    "drug_name": "Prednisone",
+    "protein_index": 18,
+    "protein_name": "P59568",
+    "score": 0.838
+  },
+  {
+    "drug_index": 19,
+    "drug_name": "Tramadol",
+    "protein_index": 34,
+    "protein_name": "P78364",
+    "score": 0.917
+  },
+  {
+    "drug_index": 44,
+    "drug_name": "Insulin",
+    "protein_index": 9,
+    "protein_name": "P41282",
+    "score": 0.718
+  },
+  {
+    "drug_index": 19,
+    "drug_name": "Tramadol",
+    "protein_index": 37,
+    "protein_name": "P24379",
+    "score": 0.96
+  },
+  {
+    "drug_index": 46,
+    "drug_name": "Hydralazine",
+    "protein_index": 28,
+    "protein_name": "P50106",
+    "score": 0.765
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Azithromycin",
+    "protein_index": 29,
+    "protein_name": "P72319",
+    "score": 0.9
+  },
+  {
+    "drug_index": 35,
+    "drug_name": "Quetiapine",
+    "protein_index": 32,
+    "protein_name": "P77698",
+    "score": 0.763
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Lorazepam",
+    "protein_index": 8,
+    "protein_name": "P77392",
+    "score": 0.77
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Clopidogrel",
+    "protein_index": 4,
+    "protein_name": "P10398",
+    "score": 0.819
+  },
+  {
+    "drug_index": 2,
+    "drug_name": "Metformin",
+    "protein_index": 10,
+    "protein_name": "P74765",
+    "score": 0.929
+  },
+  {
+    "drug_index": 25,
+    "drug_name": "Escitalopram",
+    "protein_index": 27,
+    "protein_name": "P42298",
+    "score": 0.72
+  },
+  {
+    "drug_index": 21,
+    "drug_name": "Clopidogrel",
+    "protein_index": 19,
+    "protein_name": "P46224",
+    "score": 0.786
+  },
+  {
+    "drug_index": 22,
+    "drug_name": "Zolpidem",
+    "protein_index": 47,
+    "protein_name": "P95699",
+    "score": 0.777
+  },
+  {
+    "drug_index": 24,
+    "drug_name": "Tamsulosin",
+    "protein_index": 7,
+    "protein_name": "P96815",
+    "score": 0.985
+  },
+  {
+    "drug_index": 23,
+    "drug_name": "Fluoxetine",
+    "protein_index": 49,
+    "protein_name": "P12118",
+    "score": 0.859
+  },
+  {
+    "drug_index": 4,
+    "drug_name": "Amoxicillin",
+    "protein_index": 3,
+    "protein_name": "P94394",
+    "score": 0.84
+  },
+  {
+    "drug_index": 8,
+    "drug_name": "Azithromycin",
+    "protein_index": 48,
+    "protein_name": "P42151",
+    "score": 0.728
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Lorazepam",
+    "protein_index": 47,
+    "protein_name": "P95699",
+    "score": 0.834
+  },
+  {
+    "drug_index": 29,
+    "drug_name": "Cephalexin",
+    "protein_index": 44,
+    "protein_name": "P59133",
+    "score": 0.982
+  },
+  {
+    "drug_index": 5,
+    "drug_name": "Lisinopril",
+    "protein_index": 15,
+    "protein_name": "P46240",
+    "score": 0.722
+  },
+  {
+    "drug_index": 7,
+    "drug_name": "Omeprazole",
+    "protein_index": 25,
+    "protein_name": "P55841",
+    "score": 0.962
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Metoprolol",
+    "protein_index": 25,
+    "protein_name": "P55841",
+    "score": 0.917
+  },
+  {
+    "drug_index": 36,
+    "drug_name": "Spironolactone",
+    "protein_index": 2,
+    "protein_name": "P34500",
+    "score": 0.796
+  },
+  {
+    "drug_index": 7,
+    "drug_name": "Omeprazole",
+    "protein_index": 46,
+    "protein_name": "P54332",
+    "score": 0.78
+  },
+  {
+    "drug_index": 45,
+    "drug_name": "Trazodone",
+    "protein_index": 40,
+    "protein_name": "P87490",
+    "score": 0.868
+  },
+  {
+    "drug_index": 26,
+    "drug_name": "Warfarin",
+    "protein_index": 11,
+    "protein_name": "P34037",
+    "score": 0.97
+  },
+  {
+    "drug_index": 16,
+    "drug_name": "Amlodipine",
+    "protein_index": 37,
+    "protein_name": "P24379",
+    "score": 0.752
+  },
+  {
+    "drug_index": 6,
+    "drug_name": "Atorvastatin",
+    "protein_index": 7,
+    "protein_name": "P96815",
+    "score": 0.735
+  },
+  {
+    "drug_index": 10,
+    "drug_name": "Hydrochlorothiazide",
+    "protein_index": 18,
+    "protein_name": "P59568",
+    "score": 0.852
+  },
+  {
+    "drug_index": 15,
+    "drug_name": "Metoprolol",
+    "protein_index": 50,
+    "protein_name": "P24293",
+    "score": 0.74
+  },
+  {
+    "drug_index": 2,
+    "drug_name": "Metformin",
+    "protein_index": 20,
+    "protein_name": "P71908",
+    "score": 0.714
+  },
+  {
+    "drug_index": 36,
+    "drug_name": "Spironolactone",
+    "protein_index": 4,
+    "protein_name": "P10398",
+    "score": 0.953
+  },
+  {
+    "drug_index": 41,
+    "drug_name": "Carvedilol",
+    "protein_index": 20,
+    "protein_name": "P71908",
+    "score": 0.767
+  },
+  {
+    "drug_index": 28,
+    "drug_name": "Lorazepam",
+    "protein_index": 12,
+    "protein_name": "P12897",
+    "score": 0.744
+  },
+  {
+    "drug_index": 40,
+    "drug_name": "Doxycycline",
+    "protein_index": 7,
+    "protein_name": "P96815",
+    "score": 0.711
+  }
+]
